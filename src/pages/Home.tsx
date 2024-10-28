@@ -1,6 +1,5 @@
 import { Flex, Image, Text } from "@chakra-ui/react";
 import HA420 from "../assets/Images/HondaJet.png";
-import React from "react";
 
 const Home = () => {
   return (
